@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1488854043 source:c:\users\lroem\desktop\programing\pb number program - rev 0.401\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<stdbool.h>
+
+1488857643 source:d:\c programing\pb number program - rev 0.401\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<stdbool.h>
+
